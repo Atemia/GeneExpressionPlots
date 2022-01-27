@@ -1,0 +1,214 @@
+{
+  "type": "pca",
+  "data": [
+    {
+      "x": [
+        -31.436508443017317,
+        -24.63741464024954,
+        -20.785565157817295
+      ],
+      "y": [
+        1.7477905576084078,
+        0.15384721549309954,
+        -0.5950571386626812
+      ],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "size": 9
+      },
+      "name": "Heat-Shock: Apical*DAS-1       ",
+      "text": [
+        "Heat-Shock: Apical*DAS-1*0",
+        "Heat-Shock: Apical*DAS-1*1",
+        "Heat-Shock: Apical*DAS-1*2"
+      ],
+      "textfont": {
+        "family": "Times New Roman"
+      },
+      "textposition": "bottom center",
+      "visible": true
+    },
+    {
+      "x": [
+        -14.653200976596256,
+        -6.564100672623815,
+        -5.855098856077659
+      ],
+      "y": [
+        0.31909485236361673,
+        0.9549807535570107,
+        0.9483247934291588
+      ],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "size": 9
+      },
+      "name": "Heat-Shock: Apical*DAS-2       ",
+      "text": [
+        "Heat-Shock: Apical*DAS-2*0",
+        "Heat-Shock: Apical*DAS-2*1",
+        "Heat-Shock: Apical*DAS-2*2"
+      ],
+      "textfont": {
+        "family": "Times New Roman"
+      },
+      "textposition": "bottom center",
+      "visible": true
+    },
+    {
+      "x": [
+        4.513760204615476,
+        4.549937731088408,
+        13.238002780585955
+      ],
+      "y": [
+        -13.582027299561,
+        2.5233580803919287,
+        7.456180494118227
+      ],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "size": 9
+      },
+      "name": "Heat-Shock: Apical*DAS-3       ",
+      "text": [
+        "Heat-Shock: Apical*DAS-3*0",
+        "Heat-Shock: Apical*DAS-3*1",
+        "Heat-Shock: Apical*DAS-3*2"
+      ],
+      "textfont": {
+        "family": "Times New Roman"
+      },
+      "textposition": "bottom center",
+      "visible": true
+    },
+    {
+      "x": [
+        44.093007482362864,
+        32.757138972573166,
+        28.379509288075404
+      ],
+      "y": [
+        7.504977382447552,
+        2.5743231595046008,
+        -13.57037584102361
+      ],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "size": 9
+      },
+      "name": "Heat-Shock: Meristem*DAS-1       ",
+      "text": [
+        "Heat-Shock: Meristem*DAS-1*0",
+        "Heat-Shock: Meristem*DAS-1*1",
+        "Heat-Shock: Meristem*DAS-1*2"
+      ],
+      "textfont": {
+        "family": "Times New Roman"
+      },
+      "textposition": "bottom center",
+      "visible": true
+    },
+    {
+      "x": [
+        15.519552533753721,
+        11.029512616272392,
+        0.2464749258288298
+      ],
+      "y": [
+        0.9769466511147972,
+        0.9567414751687142,
+        0.3229108959236398
+      ],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "size": 9
+      },
+      "name": "Heat-Shock: Meristem*DAS-2       ",
+      "text": [
+        "Heat-Shock: Meristem*DAS-2*0",
+        "Heat-Shock: Meristem*DAS-2*1",
+        "Heat-Shock: Meristem*DAS-2*2"
+      ],
+      "textfont": {
+        "family": "Times New Roman"
+      },
+      "textposition": "bottom center",
+      "visible": true
+    },
+    {
+      "x": [
+        -8.881041168544876,
+        -15.876224840151979,
+        -25.637741780077448
+      ],
+      "y": [
+        -0.5892281518828889,
+        0.1508691688500672,
+        1.7463429511593291
+      ],
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "size": 9
+      },
+      "name": "Heat-Shock: Meristem*DAS-3       ",
+      "text": [
+        "Heat-Shock: Meristem*DAS-3*0",
+        "Heat-Shock: Meristem*DAS-3*1",
+        "Heat-Shock: Meristem*DAS-3*2"
+      ],
+      "textfont": {
+        "family": "Times New Roman"
+      },
+      "textposition": "bottom center",
+      "visible": true
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "",
+      "font": {
+        "size": 20
+      }
+    },
+    "xaxis": {
+      "title": {
+        "text": "PC-1 (fraction of variance explained: ~0.837)"
+      },
+      "type": "linear",
+      "range": [
+        -36.163742562116354,
+        48.8202416014619
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "title": {
+        "text": "PC-2 (fraction of variance explained: ~0.055)"
+      },
+      "type": "linear",
+      "range": [
+        -15.016195779428546,
+        8.9391458623151
+      ],
+      "autorange": true
+    },
+    "showlegend": true,
+    "autosize": true,
+    "hovermode": "closest",
+    "colorway": [
+      "#62aa62",
+      "#aa60be",
+      "#b29742",
+      "#c85b79",
+      "#648acc",
+      "#c95e38"
+    ]
+  }
+}
