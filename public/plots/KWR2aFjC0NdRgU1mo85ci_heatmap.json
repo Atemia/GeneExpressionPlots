@@ -1,0 +1,1532 @@
+{
+  "type": "heatmap",
+  "binData": [
+    {
+      "bin": "Heat-Shock: Apical*DAS-1*0",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 1
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.5968638678408402
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.6198534794713983
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.24840127337448326
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": 0.38221181059309284
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 0.25316494076512125
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 0.3754792133123406
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.060773998633681756
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": -0.07237018317754601
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.5593918579492888
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": 0.6078701387608869
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": 0.32290509914042076
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": -0.3060634950923674
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": -0.3387324748393834
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": 0.22344508926301465
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 0.4489499826125437
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.04438057766241056
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": 0.07937579741823311
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Meristem*DAS-1*2",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": -0.5968638678408402
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": 1
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": 0.9283803889701491
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.15163577876788667
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.33021900123441444
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 0.12214131557222188
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": -0.17543253480379753
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.19197497787856047
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.03662133022387038
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.1697056662267208
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.09600907929470423
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": -0.11174997522447101
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": -0.2236835386217985
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": 0.09075692200109504
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": -0.02686322260949748
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": -0.6198534794713981
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.010141832129133173
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.07590495601127725
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Apical*DAS-3*0",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": -0.6198534794713983
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": 0.9283803889701491
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": 1
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.03662133022386634
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.19197497787856063
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": -0.17543253480379195
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 0.12214131557221608
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.3302190012344142
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.15163577876788928
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.07590495601127661
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.010141832129133785
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": -0.22368353862179824
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": -0.11174997522447108
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": -0.026863222609498735
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": 0.09075692200109463
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": -0.5968638678408403
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.0960090792947041
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.16970566622672112
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Meristem*DAS-3*0",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 0.24840127337448326
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": 0.15163577876788667
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": 0.03662133022386634
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 1.0000000000000002
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.40006537391267427
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 0.17918877110028986
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 0.13948840622057604
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.2812471316440984
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": -0.06796895698909416
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.3309715334720248
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": 0.051925246593102284
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": 0.05933615980008425
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": 0.2541555608822951
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": -0.1650607306727964
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": 0.0810008961795475
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": -0.07237018317755306
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.4289076959519525
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": 0.44835250273148874
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Meristem*DAS-1*0",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 0.38221181059309284
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.33021900123441444
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.19197497787856063
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": -0.40006537391267427
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": 1.0000000000000002
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": -0.4048727482243043
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 0.3232295524858558
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": 0.07462898638921939
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": -0.2812471316441033
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.15566989922688745
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": 0.45563087291367366
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": 0.21578146126834524
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": -0.18877119262930164
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": -0.14438586109770826
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": 0.1362219281118072
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": -0.06077399863368177
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.21755192488205863
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": 0.19697148634636533
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Meristem*DAS-2*2",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 0.25316494076512125
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": 0.12214131557222188
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.17543253480379195
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.17918877110028986
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.4048727482243043
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 1.0000000000000002
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": -0.47021300675529326
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": 0.3232295524858553
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.13948840622058592
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.26967590564976723
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.16554107038891336
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": 0.1943446702840924
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": -0.34196116046022945
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": 0.3265434295428378
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": -0.3955204400218086
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 0.37547921331233813
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": 0.5737399989879199
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.267929118197685
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Apical*DAS-2*0",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 0.3754792133123406
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.17543253480379753
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": 0.12214131557221608
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.13948840622057604
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": 0.3232295524858558
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": -0.47021300675529326
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 1
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.4048727482243012
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.17918877110029438
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.267929118197684
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": 0.5737399989879198
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": -0.3419611604602308
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": 0.19434467028409375
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": -0.3955204400218093
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": 0.3265434295428379
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 0.2531649407651262
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.1655410703889107
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.2696759056497687
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Apical*DAS-3*2",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": -0.060773998633681756
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.19197497787856047
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.3302190012344142
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": -0.2812471316440984
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": 0.07462898638921939
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 0.3232295524858553
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": -0.4048727482243012
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": 1.0000000000000002
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": -0.4000653739126737
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": 0.196971486346365
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.21755192488205854
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": -0.18877119262930173
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": 0.21578146126834535
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": 0.13622192811181189
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": -0.14438586109771387
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 0.38221181059309284
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": 0.4556308729136739
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.15566989922688715
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Apical*DAS-1*2",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": -0.07237018317754601
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": 0.03662133022387038
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": 0.15163577876788928
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": -0.06796895698909416
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.2812471316441033
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 0.13948840622058592
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 0.17918877110029438
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.4000653739126737
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 1.0000000000000002
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": 0.44835250273147864
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.4289076959519458
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": 0.2541555608822932
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": 0.05933615980008249
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": 0.08100089617953223
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": -0.16506073067279714
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 0.24840127337448714
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": 0.05192524659310391
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.3309715334720287
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Meristem*DAS-2*1",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": -0.5593918579492888
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.1697056662267208
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.07590495601127661
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": -0.3309715334720248
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.15566989922688745
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": -0.26967590564976723
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": -0.267929118197684
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": 0.196971486346365
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.44835250273147864
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": 1
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.837929031143313
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": 0.06832522060735899
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": 0.5753042930792889
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": 0.224280272137983
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": -0.21932145320624366
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 0.07937579741823264
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.09076953090229477
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": 0.05000568820487327
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Meristem*DAS-2*0",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 0.6078701387608869
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.09600907929470423
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.010141832129133785
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.051925246593102284
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": 0.45563087291367366
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": -0.16554107038891336
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 0.5737399989879198
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.21755192488205854
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": -0.4289076959519458
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.837929031143313
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": 1
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": -0.11311652877286847
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": -0.48788387830373725
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": -0.5217134717062167
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": 0.5280789745373666
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": -0.04438057766241047
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.059601397207055234
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.09076953090229417
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Meristem*DAS-1*1",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 0.32290509914042076
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.11174997522447101
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.22368353862179824
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.05933615980008425
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": 0.21578146126834524
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 0.1943446702840924
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": -0.3419611604602308
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.18877119262930173
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.2541555608822932
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": 0.06832522060735899
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.11311652877286847
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": 1.0000000000000002
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": -0.47277081284990247
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": -0.2638682846326987
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": 0.21826751100860875
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": -0.3060634950923676
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.4878838783037369
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": 0.5753042930792887
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Apical*DAS-3*1",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": -0.3060634950923674
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.2236835386217985
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.11174997522447108
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.2541555608822951
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.18877119262930164
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": -0.34196116046022945
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 0.19434467028409375
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": 0.21578146126834535
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.05933615980008249
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": 0.5753042930792889
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.48788387830373725
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": -0.47277081284990247
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": 1.0000000000000002
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": 0.2182675110086113
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": -0.26386828463269996
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 0.32290509914042104
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.1131165287728689
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": 0.06832522060735918
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Meristem*DAS-3*1",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": -0.3387324748393834
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": 0.09075692200109504
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.026863222609498735
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": -0.1650607306727964
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.14438586109770826
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 0.3265434295428378
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": -0.3955204400218093
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": 0.13622192811181189
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.08100089617953223
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": 0.224280272137983
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.5217134717062167
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": -0.2638682846326987
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": 0.2182675110086113
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": 1
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": -0.9820619602078776
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 0.22344508926301143
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": 0.5280789745373612
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.219321453206235
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Apical*DAS-1*1",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 0.22344508926301465
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.02686322260949748
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": 0.09075692200109463
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.0810008961795475
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": 0.1362219281118072
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": -0.3955204400218086
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 0.3265434295428379
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.14438586109771387
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": -0.16506073067279714
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.21932145320624366
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": 0.5280789745373666
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": 0.21826751100860875
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": -0.26386828463269996
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": -0.9820619602078776
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": 1.0000000000000002
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": -0.3387324748393855
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.5217134717062181
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": 0.22428027213798618
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Meristem*DAS-3*2",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 0.4489499826125437
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.6198534794713981
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.5968638678408403
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": -0.07237018317755306
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.06077399863368177
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 0.37547921331233813
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": 0.2531649407651262
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": 0.38221181059309284
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.24840127337448714
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": 0.07937579741823264
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.04438057766241047
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": -0.3060634950923676
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": 0.32290509914042104
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": 0.22344508926301143
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": -0.3387324748393855
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 1
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": 0.6078701387608866
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.5593918579492884
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Apical*DAS-2*2",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": -0.04438057766241056
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.010141832129133173
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.0960090792947041
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": -0.4289076959519525
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": -0.21755192488205863
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": 0.5737399989879199
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": -0.1655410703889107
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": 0.4556308729136739
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": 0.05192524659310391
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": -0.09076953090229477
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.059601397207055234
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": -0.4878838783037369
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": -0.1131165287728689
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": 0.5280789745373612
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": -0.5217134717062181
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": 0.6078701387608866
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": 1.0000000000000002
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": -0.8379290311433127
+        }
+      ]
+    },
+    {
+      "bin": "Heat-Shock: Apical*DAS-2*1",
+      "bins": [
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*0",
+          "count": 0.07937579741823311
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*2",
+          "count": -0.07590495601127725
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*0",
+          "count": -0.16970566622672112
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*0",
+          "count": 0.44835250273148874
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*0",
+          "count": 0.19697148634636533
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*2",
+          "count": -0.267929118197685
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*0",
+          "count": -0.2696759056497687
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*2",
+          "count": -0.15566989922688715
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*2",
+          "count": -0.3309715334720287
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*1",
+          "count": 0.05000568820487327
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-2*0",
+          "count": -0.09076953090229417
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-1*1",
+          "count": 0.5753042930792887
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-3*1",
+          "count": 0.06832522060735918
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*1",
+          "count": -0.219321453206235
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-1*1",
+          "count": 0.22428027213798618
+        },
+        {
+          "bin": "Heat-Shock: Meristem*DAS-3*2",
+          "count": -0.5593918579492884
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*2",
+          "count": -0.8379290311433127
+        },
+        {
+          "bin": "Heat-Shock: Apical*DAS-2*1",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "tree": {
+    "name": "lWW_ZZlwUp_flAn9R1fK2",
+    "children": [
+      {
+        "name": "Gm7_6IiIlAsXEUgjmMyPN",
+        "children": [
+          {
+            "name": "Heat-Shock: Apical*DAS-1*0"
+          },
+          {
+            "name": "mbITjeWk_YnDP8OBNY9DH",
+            "children": [
+              {
+                "name": "Heat-Shock: Meristem*DAS-1*2"
+              },
+              {
+                "name": "Heat-Shock: Apical*DAS-3*0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "64tVwCFq6Rg8ojZPBmHWy",
+        "children": [
+          {
+            "name": "abs9N03MVwxUru_ayLXtv",
+            "children": [
+              {
+                "name": "Xhhf4AKD8uyD2dtnMO6j6",
+                "children": [
+                  {
+                    "name": "rxLqPqjNmA0Df5VkTIyO3",
+                    "children": [
+                      {
+                        "name": "Heat-Shock: Meristem*DAS-3*0"
+                      },
+                      {
+                        "name": "Heat-Shock: Meristem*DAS-1*0"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CbkQ4Dn_YnvsApV-abVuK",
+                    "children": [
+                      {
+                        "name": "bzMWsrIoxj2Ov3mzm_90L",
+                        "children": [
+                          {
+                            "name": "Heat-Shock: Meristem*DAS-2*2"
+                          },
+                          {
+                            "name": "Heat-Shock: Apical*DAS-2*0"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "_iPbH0cHqDdmTrBdSGLHw",
+                        "children": [
+                          {
+                            "name": "Heat-Shock: Apical*DAS-3*2"
+                          },
+                          {
+                            "name": "Heat-Shock: Apical*DAS-1*2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "QIG0zjDoRhKHaUtCIEdLA",
+                "children": [
+                  {
+                    "name": "VwdiLVwADshSPu8_OTHtU",
+                    "children": [
+                      {
+                        "name": "Heat-Shock: Meristem*DAS-2*1"
+                      },
+                      {
+                        "name": "Heat-Shock: Meristem*DAS-2*0"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RPXeEgZVJg0XWw_zJPV5b",
+                    "children": [
+                      {
+                        "name": "Heat-Shock: Meristem*DAS-1*1"
+                      },
+                      {
+                        "name": "Heat-Shock: Apical*DAS-3*1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "N1V8BVucfN88p2AND9eT9",
+            "children": [
+              {
+                "name": "2dEplPmNLNbyYPE5KUnfI",
+                "children": [
+                  {
+                    "name": "Heat-Shock: Meristem*DAS-3*1"
+                  },
+                  {
+                    "name": "Heat-Shock: Apical*DAS-1*1"
+                  }
+                ]
+              },
+              {
+                "name": "MXIPOSTxb39QnEyNB1JWD",
+                "children": [
+                  {
+                    "name": "Heat-Shock: Meristem*DAS-3*2"
+                  },
+                  {
+                    "name": "0Hq8J2tdB4_tq9b5OdgmF",
+                    "children": [
+                      {
+                        "name": "Heat-Shock: Apical*DAS-2*2"
+                      },
+                      {
+                        "name": "Heat-Shock: Apical*DAS-2*1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "distanceMethod": "correlation",
+  "plotTitle": ""
+}
